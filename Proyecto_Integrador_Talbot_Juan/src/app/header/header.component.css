@@ -1,0 +1,35 @@
+.contenedor{
+  width: 100%;
+  margin: auto;
+  background-color: rgb(4,67,104);
+}
+
+.encabezado{
+display: grid;
+grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
+.ArgProg{
+  display: flex;
+
+}
+.sociales_login{
+  display: flex;
+  grid-column-start: 5;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.banner img{
+  width: 100%;
+}
+#Logo_A_P{
+  width: 150px;
+}
+.Logo_sociales{
+  width: 50px;
+  padding: 5px;
+}
+
+
