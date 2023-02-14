@@ -1,0 +1,9 @@
+.acerca_de{
+  background-color: #2E5757;
+}
+.borde {
+  border-color: #F2B54B;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+}
