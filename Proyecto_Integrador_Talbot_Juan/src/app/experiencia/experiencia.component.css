@@ -1,0 +1,11 @@
+.row{
+  background-color: #e2c541;
+  color: #b14b5d;
+  font-family: Armata;
+  padding: 20px;
+  font-size: 1rem;
+}
+
+h2, h3{
+  display: inline;
+}
